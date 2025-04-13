@@ -1,4 +1,4 @@
-# NetSuite Client Library
+# NetSuite Client
 
 A Python client library for interacting with NetSuite's REST and SuiteQL APIs.
 
@@ -12,7 +12,7 @@ A Python client library for interacting with NetSuite's REST and SuiteQL APIs.
 ## Installation
 
 ```bash
-pip install netsuite-client-library
+pip install netsuite-client
 ```
 
 ## Quick Start
